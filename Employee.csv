@@ -1,0 +1,27 @@
+EmployeeID, EmployeeName, Department, Salary, YearsOfExperience, Location, Country
+1, Alice, HR,50000,5, New York, USA
+2, Bob, IT,70000,8, San Francisco, USA
+3, Charlie, IT,65000,6, San Francisco, USA
+4, David, Finance,80000,10, Chicago, USA
+5, Eve, HR,55000,7, New York, USA
+6, Frank, IT,72000,9, Austin, USA
+7, Grace, Finance,78000,9, Chicago, USA
+8, Hannah, IT,60000,5, Austin, USA
+9, Ian, HR,52000,4, New York, USA
+10, Jack, Finance,82000,11, Chicago, USA
+11, Karen, Marketing,48000,3, London, UK
+12, Leo, Marketing,50000,4, London, UK
+13, Mona, Sales,55000,6, Sydney, Australia
+14, Nina, Sales,60000,5, Sydney, Australia
+15, Oscar, IT,75000,10, San Francisco, USA
+16, Paul, Finance,90000,12, Toronto, Canada
+17, Quincy, HR,51000,2, New York, USA
+18, Rachel, Marketing,52000,5, London, UK
+19, Steve, IT,72000,7, Austin, USA
+20, Tina, Sales,58000,6, Melbourne, Australia
+21, Uma, HR,53000,5, Vancouver, Canada
+22, Victor, Finance,85000,9, Toronto, Canada
+23, Wendy, Marketing,55000,6, Paris, France
+24, Xander, IT,70000,7, Paris, France
+25, Yasmine, Sales,63000,8, Sydney, Australia
+26, Zach, HR,49000,3, London, UK
